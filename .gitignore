@@ -1,0 +1,9 @@
+obj
+bin
+.*\.layout
+nbproject
+build
+dist
+Makefile\.nb
+\.dep\.inc
+callgrind\..*
